@@ -59,7 +59,7 @@ c = "ABC";
 
 
 const fristName='Mint'
-const lastName="Piyada"
+const lastName="Pgiiyada"
 
 const mergeName=(fristName,lastName)=>{
     // return fristName +" "+ lastName
